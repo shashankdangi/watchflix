@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "formatSelectionAsHtml.formatter": "prettier",
+  "postman.settings.dotenv-detection-notification-visibility": false
+}
